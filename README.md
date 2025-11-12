@@ -1,7 +1,7 @@
 ## Wave Collapse Function
 
 ### Collaborators: 
-Muhammad Rehan Siddiqui 
+Muhammad Rehan Siddiqui
 Abdullah Razzaq
 
 ### Small Description
